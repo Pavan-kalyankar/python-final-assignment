@@ -1,9 +1,9 @@
 # python-final-assignment
 work done
-https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-9c5bf3da6f5875a7ffd486a5fc20554afdd15c90
-https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-886e55e748229bb73916104b4a7426a30948f584
-https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-6e4030f946b343c390bd016066159e1753a42892
-https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-ef9fb2b72b064bb54e71608e8221f0d1620788fe
-https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-0873642cfd4232ea1de5fbe8823c1c03f6f84b91
-https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-d1931387220a35499622e3ac1c2f516f0e5c99d1
-https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-890405025f81922c92ef7a7c420c51e46a10caa2
+https://jupyterlab-4-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/module_1_L2/jupyter-labs-spacex-data-collection-api.ipynb
+https://jupyterlab-4-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/module_1_L2/jupyter-labs-webscraping.ipy
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/jupyterlite/lab?path=IBM-DS0321EN-SkillsNetwork%2Flabs%2Fmodule_2%2Fjupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/jupyterlite/lab?path=IBM-DS0321EN-SkillsNetwork%2Flabs%2Fmodule_3%2Flab_jupyter_launch_site_location.jupyterlite.ipynb
+https://jupyterlab-4-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/module_2/jupyter-labs-eda-sql-coursera_sqllite.ipynb
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/jupyterlite/lab?path=IBM-DS0321EN-SkillsNetwork%2Flabs%2Fmodule_2%2Fjupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/jupyterlite/lab?path=IBM-DS0321EN-SkillsNetwork%2Flabs%2Fmodule_4%2FSpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb
